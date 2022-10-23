@@ -1,7 +1,5 @@
 <template>
-    <div>
-        <router-view></router-view>
-    </div>
+    <div>404 not found</div>
 </template>
 <script setup lang="ts"></script>
 <style lang="less" scoped></style>
